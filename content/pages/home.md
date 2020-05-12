@@ -1,30 +1,28 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: Vitralii Alba
+featuredImage: 'https://ucarecdn.com/f008b13d-a1d3-43cf-a0a0-b4bcf879b554/'
+subtitle: Vitralii autentice executate în tehnica Tiffany din sticlă colorată în masă.
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: Vitralii autentice executate în tehnica Tiffany din sticlă colorată în masă
+  title: Vitralii Tiffany Alba Iulia
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+# Vitralii Tiffany Alba
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+## Lucrări recente
 
-# Features
+Acvila de munte
 
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
+![Acvila de munte](https://ucarecdn.com/a9cb23c2-d914-4cbc-98ed-f0def1ee23ee/ "Acvila de munte")
 
-## Get started
+## Noutăți și evenimente
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
+Workshop Smida Jazz Festival
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+Am organizat un atelier de terarii și obiecte din sticlă, în cadrul festivalului Smida Jazz, în 15 august 2019 între orele 14.30-16 si 16.30-18 și în 16, 17 si 18 august,  intre orele  10-11.30 ; 11.30-13 ; 13.30-15 ; 15-16.30 ; 16.30-18.
+
+* 15 august 2019, orele 14.30-16 si 16.30-18
+* 16 august 2019, orele 10.00-13 si 13.30-18
+* 17 august 2019, orele 10.00-13 si 13.30-18
+* 18 august 2019, orele 10.00-13 si 13.30-18
