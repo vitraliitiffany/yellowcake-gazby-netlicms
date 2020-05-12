@@ -1,27 +1,26 @@
 ---
 template: ContactPage
 slug: contact
-title: Contact Page
+title: Contact Vitralii Tiffany Alba
 featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
-subtitle: This is the contact page subtitle.
-address: '404 James St, Burleigh Heads QLD 4220'
-phone: 0987 123 456
-email: example@example.com
+subtitle: Vitralii Tiffany Alba Iulia
+address: 'Alba Iulia'
+phone: 0741 190 182
+email: carmen.iepure@yahoo.com
 locations:
-  - lat: '-27.9654732'
-    lng: '153.2432449'
-    mapLink: ''
+  - lat: '46.0617224'
+    lng: '23.4879629'
+    mapLink: 'https://goo.gl/maps/3dWi8AEduwT91nLq8'
 meta:
-  description: This is a meta description.
-  title: Contact Page
+  description: Vitralii Tiffany Alba Iulia, Vitralii autentice executate în tehnica Tiffany din sticlă colorată în masă
+  title: Contact Vitralii Tiffany Alba
 ---
 
-# Example contact form
+# Contact Vitralii Tiffany, Alba Iulia.
 
-This form is setup to use Netlify's form handling:
+Vitralii Tiffany - Alba Iulia:
 
-- the form action is set to the current absolute url: `action: '/contact/'`
-- a name attribute is sent with the form's data `'form-name': 'Contact'`
-- netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
+- Telefon: +40741190182
+- Email: carmen.iepure@yahoo.com
 
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+<!-- Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/). -->

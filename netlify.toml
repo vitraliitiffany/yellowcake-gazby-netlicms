@@ -4,3 +4,18 @@
 [build.environment]
   YARN_VERSION = "1.3.2"
   YARN_FLAGS = "--no-ignore-optional"
+
+[[plugins]]
+package = "netlify-plugin-gatsby-cache"
+
+[[plugins]]
+package = "@netlify/plugin-sitemap"
+
+  [plugins.inputs]
+  buildDir = "public"
+  exclude = [
+    # By file Path
+    './build-dir/path-to/file.html',
+    # By Glob pattern
+    '**/**/child-one.html'
+  ]
