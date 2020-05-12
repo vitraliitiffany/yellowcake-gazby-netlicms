@@ -73,7 +73,7 @@ export default ({ children, meta, title }) => {
               {...data.settingsYaml}
             />
 
-            <GithubCorner url="https://github.com/vitraliitiffany/yellowcake-gazby-netlicms" />
+            {/* <GithubCorner url="https://github.com/vitraliitiffany/yellowcake-gazby-netlicms" /> */}
 
             <Nav subNav={subNav} />
 
