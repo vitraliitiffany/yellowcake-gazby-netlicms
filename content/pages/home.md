@@ -1,13 +1,13 @@
 ---
 template: HomePage
-slug: ''
+slug: 'vitralii'
 title: Vitralii Alba
 featuredImage: 'https://ucarecdn.com/f008b13d-a1d3-43cf-a0a0-b4bcf879b554/'
 subtitle: Vitralii autentice executate în tehnica Tiffany din sticlă colorată în masă.
 gallery:
-  - alt: yellow rope image
+  - alt: Vitralii autentice executate în tehnica Tiffany
     image: 'https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/'
-    title: Yellow Rope
+    title: Vitralii autentice executate în tehnica Tiffany
   - alt: umbrellas
     image: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
     title: a bunch of umbrellas
